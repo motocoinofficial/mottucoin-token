@@ -1,2 +1,0 @@
-# mottucoin-token
-MOTTUCOIN 
