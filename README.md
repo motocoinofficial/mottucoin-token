@@ -1,8 +1,6 @@
 MottuCoin ($MOTTU) é uma criptomoeda comunitária construída na blockchain Solana, criada por um entregador brasileiro com mais de 15 anos nas estradas. Feito por pilotos, para pilotos. Não veio de um escritório — nasceu da jornada, do trabalho e das pessoas que fazem a cidade rodar. Crescimento orgânico, sem bots, sem volume falso .
  
- 
- 
-📊 Informações do Token
+ 📊 Informações do Token
  
 - Nome: MottuCoin
 - Símbolo: $MOTTU
@@ -14,15 +12,11 @@ MottuCoin ($MOTTU) é uma criptomoeda comunitária construída na blockchain Sol
 - Contrato renunciado ✅ — sem controle especial
 - Liquidez travada ✅ — permanentemente protegida
  
- 
- 
-📜 Contrato Oficial
+ 📜 Contrato Oficial
  
 BqV5L1apSdYjKEAa54qS9WCQdoSwpaNjcFYvBGoVpump 
  
- 
- 
-🔗 Links Oficiais
+ 🔗 Links Oficiais
  
 🌐 Site oficial: https://mottucoin.com.br 
 🌐 Site internacional: https://mottucoin.com 
